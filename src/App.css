@@ -15,9 +15,6 @@ body{
   text-align: center;
   padding: 20px;
 }
-.crossed-line {
-  text-decoration: line-through;
-}
 
 h1{
   color: rgb(226, 10, 10);
